@@ -1,20 +1,16 @@
- Hi there 👋
+ **Hi there 👋**
 
-Meu nome é Felipe Franco, sou um desenvolvedor apaixonado em tecnologias e em busca de novos desafios!
-<br>
-Neste espaço vou compartilhar minha criatividade, habilidade e vontade por meio dos códigos.
+ Meu nome é Felipe Franco, sou um desenvolvedor apaixonado em tecnologias e em busca de novos desafios!
 
-Connect with me: 
+ Neste espaço vou compartilhar minha criatividade, habilidade e vontade por meio dos códigos.
 
-<a href="https://www.linkedin.com/in/felipe-franco-3a5931294/"><img src="https://cdn-icons-png.flaticon.com/128/408/408805.png" alt="linkedin-logo"></a>
+**Connect with me:**
 
-Linguagens e ferramentas:
+<a href="https://www.linkedin.com/in/felipe-franco-3a5931294/"><img src="https://cdn-icons-png.flaticon.com/128/2335/2335321.png" alt="linkedin-logo" width="30px"></a>
 
-<img src="https://cdn-icons-png.flaticon.com/128/253/253817.png" alt="html-logo"> <img src="https://cdn-icons-png.flaticon.com/128/732/732028.png" alt="css-logo"> <img src="https://cdn-icons-png.flaticon.com/128/721/721791.png" alt="javascript-logo">
+**Linguagens e ferramentas:**
 
-
-
-
+<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html-logo" width="40px"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css-logo" width="40px"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="javascript-logo" width="40px">
 
 <br>
 
@@ -23,3 +19,5 @@ Linguagens e ferramentas:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefranco-dev&layout=compact)
+
+
