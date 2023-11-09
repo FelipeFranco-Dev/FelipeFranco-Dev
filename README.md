@@ -1,6 +1,6 @@
  **Hi there 👋**
 
- Meu nome é Felipe Franco, sou um desenvolvedor apaixonado em tecnologias e em busca de novos desafios!
+ Meu nome é Felipe Franco, sou um desenvolvedor apaixonado em tecnologia e em busca de novos desafios!
 
  Neste espaço vou compartilhar minha criatividade, habilidade e vontade por meio dos códigos.
 
