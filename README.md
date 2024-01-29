@@ -6,7 +6,7 @@
 
 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/felipe-franco-3a5931294/"><img src="https://cdn-icons-png.flaticon.com/128/2335/2335321.png" alt="linkedin-logo" width="30px"></a>
+<a href="https://www.linkedin.com/in/felipe-franco-developer/"><img src="https://cdn-icons-png.flaticon.com/128/2335/2335321.png" alt="linkedin-logo" width="30px"></a>
 
 **Linguagens e ferramentas:**
 
